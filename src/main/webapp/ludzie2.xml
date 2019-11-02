@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ludzie>
+  <czlowiek id="1">
+    <nazwisko>zaba</nazwisko>
+    <imie>antoni</imie>
+  </czlowiek>
+  <czlowiek id="2">
+    <nazwisko>mucha</nazwisko>
+    <imie>krzysztof</imie>
+  </czlowiek>
+  <czlowiek id="3">
+    <nazwisko>bieg</nazwisko>
+    <imie>leszek</imie>
+  </czlowiek>
+  <czlowiek id="4">
+    <nazwisko>szosa</nazwisko>
+    <imie>karol</imie>
+  </czlowiek>
+  <czlowiek id="5">
+    <nazwisko>sieczka</nazwisko>
+    <imie>kazimierz</imie>
+  </czlowiek>
+</ludzie>
